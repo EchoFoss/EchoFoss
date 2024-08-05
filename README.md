@@ -33,8 +33,3 @@ I'm a sofware engineer who loves learning new things, working out, reading and e
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 __(thinking on investing on kotlin multiplatform, will think of it further when needed)__ -->
-
-
-### Contact me
-
-I still don't have a main way for you to contact me cuz I'm shy, but I'm working on an awesome personal website where you'll be able to
